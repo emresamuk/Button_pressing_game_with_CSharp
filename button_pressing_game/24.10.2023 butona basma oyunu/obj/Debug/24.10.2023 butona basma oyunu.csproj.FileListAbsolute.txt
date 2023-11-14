@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\bin\Debug\24.10.2023 butona basma oyunu.exe.config
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\bin\Debug\24.10.2023 butona basma oyunu.exe
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\bin\Debug\24.10.2023 butona basma oyunu.pdb
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\24.10.2023 butona basma oyunu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\_24._10._2023_butona_basma_oyunu.Form1.resources
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\_24._10._2023_butona_basma_oyunu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\24.10.2023 butona basma oyunu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\24.10.2023 butona basma oyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\24.10.2023 butona basma oyunu.exe
+C:\Users\LENOVO\source\repos\24.10.2023 butona basma oyunu\24.10.2023 butona basma oyunu\obj\Debug\24.10.2023 butona basma oyunu.pdb
